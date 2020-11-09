@@ -1,0 +1,3 @@
+displayName = The Evan Mod
+author = EvanGamer2020
+version = 0.12

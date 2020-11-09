@@ -1,0 +1,18 @@
+The Evan Mod
+A mod that adds some random cool items
+
+v0.12
+-Miscellaneous
+    -Added Mod Icon 
+
+v0.11
+-Cheat Items
+    -Added Vile Super Sword (Modified version of the Super Sword that kills NPCS)
+
+v0.1
+-Normal Items
+    -Added Compact Dirt
+    -Added Compact Stone
+
+-Cheat Items
+    -Added Super Sword
